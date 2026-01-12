@@ -1,0 +1,8 @@
+{
+  "name": "Étoile Wedding Studio - 高端婚宴策劃",
+  "description": "頂級品牌婚禮顧問與策劃網站，專為追求品味與專業的新人打造的精品形象官網。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
